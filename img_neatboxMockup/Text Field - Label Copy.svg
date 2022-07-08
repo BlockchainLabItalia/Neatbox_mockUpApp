@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="918px" height="88px" viewBox="0 0 918 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Text Field - Label Copy</title>
+    <g id="TRANSFER-FILE" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="TRANFER-OWNERSHIP-FILE" transform="translate(-268.000000, -295.000000)">
+            <g id="TRANSFER-OWNERSHIP-ASSET" transform="translate(268.000000, 280.000000)">
+                <g id="Text-Field---Label-Copy" transform="translate(0.000000, 19.000000)">
+                    <g id="Email" transform="translate(0.000000, 36.000000)">
+                        <rect id="Background-Color" fill="#FFFFFF" x="0" y="0" width="918" height="48" rx="4"></rect>
+                        <rect id="Border-Color" stroke="#EAC445" x="0.5" y="0.5" width="917" height="47" rx="4"></rect>
+                        <g id="Content" transform="translate(8.000000, 9.000000)" fill="#6A767B" font-family="CenturyGothic, Century Gothic" font-size="21" font-weight="normal" line-spacing="24">
+                            <text id="Text">
+                                <tspan x="0" y="21">Select the digital asset to be transfered</tspan>
+                            </text>
+                        </g>
+                    </g>
+                    <text id="Label" font-family="CenturyGothic, Century Gothic" font-size="30" font-weight="normal" line-spacing="19" fill="#000000">
+                        <tspan x="0" y="30">SELECT ASSET *</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

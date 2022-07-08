@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="624px" height="83px" viewBox="0 0 624 83" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>fieldName</title>
+    <g id="UPLOAD-FILE-_fieldOptional_nameTemplateFailed" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Upload-file_addField-page" transform="translate(-575.000000, -492.000000)">
+            <g id="POPUP_enterNameTemplate" transform="translate(38.000000, 274.000000)">
+                <g id="fieldName" transform="translate(537.000000, 218.000000)">
+                    <rect id="Background-Color" fill="#FFFFFF" x="0" y="0" width="624" height="83" rx="4"></rect>
+                    <rect id="Border-Color" stroke="#EAC445" x="0.5" y="0.5" width="623" height="82" rx="4"></rect>
+                    <g id="Content" transform="translate(11.000000, 24.312500)" fill="#6A767B" font-family="CenturyGothic, Century Gothic" font-size="20" font-weight="normal" line-spacing="24">
+                        <text id="Text">
+                            <tspan x="0" y="20">Custom field name</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

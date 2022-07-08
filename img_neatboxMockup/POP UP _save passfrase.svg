@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1080px" height="465px" viewBox="0 0 1080 465" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>POP UP _save passfrase</title>
+    <defs>
+        <path d="M50,0 L974,0 C1001.61424,-5.07265313e-15 1024,22.3857625 1024,50 L1024,359.141066 C1024,386.755303 1001.61424,409.141066 974,409.141066 L0,409.141066 L0,409.141066 L0,50 C-3.38176876e-15,22.3857625 22.3857625,5.07265313e-15 50,0 Z" id="path-1"></path>
+        <filter x="-4.2%" y="-9.9%" width="108.5%" height="121.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="2" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="12" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="POPUP-1_CREATE-WALLET" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="create-wallet-_-step1" transform="translate(-194.000000, -285.000000)">
+            <g id="POPUP_save-the-passfrase" transform="translate(139.000000, 296.000000)">
+                <g id="Rectangle" transform="translate(83.000000, 14.000000)">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

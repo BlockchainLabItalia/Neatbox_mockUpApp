@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="328px" height="65px" viewBox="0 0 328 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon</title>
+    <g id="UPLOAD-FILE" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Upload-file-Page" transform="translate(-807.000000, -765.000000)">
+            <g id="personalization-asset-info" transform="translate(248.000000, 598.000000)">
+                <g id="icon" transform="translate(559.000000, 167.000000)">
+                    <rect id="Background-Focused" x="0" y="0" width="32" height="32" rx="4"></rect>
+                    <g id="Chevron" transform="translate(310.000000, 49.000000)" fill="#ADAFB1">
+                        <path d="M10.1610738,0.314078503 L5.99463087,4.48052146 L1.82818792,0.314078503 C1.62756346,0.113001806 1.35518673,0 1.07114094,0 C0.78709515,0 0.514718417,0.113001806 0.31409396,0.314078503 C-0.104697987,0.732870449 -0.104697987,1.40938052 0.31409396,1.82817246 L5.24295302,6.75703152 C5.66174497,7.17582347 6.33825503,7.17582347 6.75704698,6.75703152 L11.685906,1.82817246 C12.104698,1.40938052 12.104698,0.732870449 11.685906,0.314078503 C11.2671141,-0.0939751884 10.5798658,-0.104713443 10.1610738,0.314078503 L10.1610738,0.314078503 Z" id="↳-icon-Color"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
